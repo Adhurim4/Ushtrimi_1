@@ -1,0 +1,58 @@
+h1{
+    font-size: 20px;
+}
+table{
+    width: 540px;
+   
+        margin-left: auto;
+        margin-right: auto; 
+}
+
+.tiramisu{
+    float: left;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.amazon{
+    float: right;
+    margin-top: 25px;
+    
+}
+
+.posted{
+    float: left;
+    font-size:12px;
+}
+
+img{
+    width: 180px;
+}
+
+.trfoto{
+float: left;
+align-items: center;
+}
+
+.p1{
+    font-size: 10px;
+    margin-bottom: 0;
+}
+
+.p2{
+    margin-top: 0;
+}
+
+.list {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;   
+    list-style: none; 
+    font-size: 10px;
+}
+
+.img_class{
+    width: 450px;
+    height: 320px;
+}
+ 
