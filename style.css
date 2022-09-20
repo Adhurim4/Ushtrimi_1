@@ -1,0 +1,123 @@
+h1{
+    font-size: 20px;
+}
+table{
+    width: 540px;
+   
+        margin-left: auto;
+        margin-right: auto; 
+}
+
+.tiramisu{
+    float: left;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.amazon{
+    float: right;
+    margin-top: 25px;
+    
+}
+
+.posted{
+    float: left;
+    font-size:12px;
+}
+
+img{
+    width: 180px;
+}
+
+.trfoto{
+float: left;
+align-items: center;
+}
+
+.p1{
+    font-size: 10px;
+    margin-bottom: 0;
+}
+
+.p2{
+    margin-top: 0;
+}
+
+.list {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;   
+    list-style: none; 
+    font-size: 10px;
+    
+        list-style-image: url('sqpurple.gif');
+      
+}
+
+.img_class{
+    width: 450px;
+    height: 320px;
+}
+ 
+ 
+input[type=text]{
+    
+    padding: 8px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(174, 161, 161);
+    border-radius: 4px;
+    transition: width 0.9s ease-in-out;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+    width: 100%;
+  }
+
+   
+input[type=submit]{
+    background: #0066A2;
+    color: white;
+    border-style: outset;
+    border-color: #0066A2;
+    height: 40px;
+    width: 100px;
+    font: bold15px arial,sans-serif;
+    text-shadow: none;
+    border-radius: 10px;
+}
+
+.forma{
+    margin-top: 5%;
+    border: 2px solid rgb(172, 116, 116);
+    padding: 5px;    
+}
+.forma:hover{
+    margin-top: 6%;
+    box-shadow: #555;
+    border: 2px solid rgb(15, 8, 8);  
+}
+
+input[type=submit]:hover{
+background: #016ABC;
+color: #fff;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #eee;
+text-shadow: none;
+}
+
+input[type=radio]{
+  
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+    border-radius: 50%;
+}
+input[type=radio]:checked{
+    border: 2px solid rgb(174, 161, 161);
+    margin-bottom: 15px;
+ }
